@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34050
     wikipedia: http://en.wikipedia.org/wiki/Charles-Victor_Langlois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45864#La-vie-en-France-au-moyen--ged-apr-s-quelques-moralistes-du-temps
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2014-06-02'
 gutenberg_type: Text
